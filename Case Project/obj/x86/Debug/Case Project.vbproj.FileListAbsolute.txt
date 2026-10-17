@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2010\Projects\Case Project\Case Project\bin\Debug\Case Project.exe
+c:\users\hp\documents\visual studio 2010\Projects\Case Project\Case Project\bin\Debug\Case Project.pdb
+c:\users\hp\documents\visual studio 2010\Projects\Case Project\Case Project\bin\Debug\Case Project.xml
+c:\users\hp\documents\visual studio 2010\Projects\Case Project\Case Project\obj\x86\Debug\Case_Project.Form1.resources
+c:\users\hp\documents\visual studio 2010\Projects\Case Project\Case Project\obj\x86\Debug\Case_Project.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\Case Project\Case Project\obj\x86\Debug\Case Project.vbproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\Case Project\Case Project\obj\x86\Debug\Case Project.exe
+c:\users\hp\documents\visual studio 2010\Projects\Case Project\Case Project\obj\x86\Debug\Case Project.xml
+c:\users\hp\documents\visual studio 2010\Projects\Case Project\Case Project\obj\x86\Debug\Case Project.pdb
